@@ -1,0 +1,360 @@
+{
+  data: [
+    {
+      "orientation": "v",
+      "width": [0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999],
+      "base": [0, 0.5, 1, 1.5, 0, 0.933333333333333, 1.86666666666667, 2.8, 0, 0.388888888888889, 0.777777777777778, 1.16666666666667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0.259259259259259, 0.518518518518518, 0.777777777777778, 0, 0.583333333333333, 1.16666666666667, 1.75],
+      "x": [2, 2, 2, 2, 3, 3, 3, 3, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 14, 14, 14, 14],
+      "y": [0.5, 0.5, 0.5, 0.5, 0.933333333333333, 0.933333333333333, 0.933333333333333, 0.933333333333334, 0.388888888888889, 0.388888888888889, 0.388888888888889, 0.388888888888889, 0, 0, 0, 0, 0, 0, 0, 0, 0.259259259259259, 0.259259259259259, 0.259259259259259, 0.259259259259259, 0.583333333333333, 0.583333333333333, 0.583333333333333, 0.583333333333333],
+      "text": ["O.drive.number:  2<br />Success.rate: 0.5000000<br />Score.drive: FALSE", "O.drive.number:  2<br />Success.rate: 0.5000000<br />Score.drive: FALSE", "O.drive.number:  2<br />Success.rate: 0.5000000<br />Score.drive: FALSE", "O.drive.number:  2<br />Success.rate: 0.5000000<br />Score.drive: FALSE", "O.drive.number:  3<br />Success.rate: 0.9333333<br />Score.drive: FALSE", "O.drive.number:  3<br />Success.rate: 0.9333333<br />Score.drive: FALSE", "O.drive.number:  3<br />Success.rate: 0.9333333<br />Score.drive: FALSE", "O.drive.number:  3<br />Success.rate: 0.9333333<br />Score.drive: FALSE", "O.drive.number:  6<br />Success.rate: 0.3888889<br />Score.drive: FALSE", "O.drive.number:  6<br />Success.rate: 0.3888889<br />Score.drive: FALSE", "O.drive.number:  6<br />Success.rate: 0.3888889<br />Score.drive: FALSE", "O.drive.number:  6<br />Success.rate: 0.3888889<br />Score.drive: FALSE", "O.drive.number:  7<br />Success.rate: 0.0000000<br />Score.drive: FALSE", "O.drive.number:  7<br />Success.rate: 0.0000000<br />Score.drive: FALSE", "O.drive.number:  7<br />Success.rate: 0.0000000<br />Score.drive: FALSE", "O.drive.number:  7<br />Success.rate: 0.0000000<br />Score.drive: FALSE", "O.drive.number:  8<br />Success.rate: 0.0000000<br />Score.drive: FALSE", "O.drive.number:  8<br />Success.rate: 0.0000000<br />Score.drive: FALSE", "O.drive.number:  8<br />Success.rate: 0.0000000<br />Score.drive: FALSE", "O.drive.number:  8<br />Success.rate: 0.0000000<br />Score.drive: FALSE", "O.drive.number:  9<br />Success.rate: 0.2592593<br />Score.drive: FALSE", "O.drive.number:  9<br />Success.rate: 0.2592593<br />Score.drive: FALSE", "O.drive.number:  9<br />Success.rate: 0.2592593<br />Score.drive: FALSE", "O.drive.number:  9<br />Success.rate: 0.2592593<br />Score.drive: FALSE", "O.drive.number: 14<br />Success.rate: 0.5833333<br />Score.drive: FALSE", "O.drive.number: 14<br />Success.rate: 0.5833333<br />Score.drive: FALSE", "O.drive.number: 14<br />Success.rate: 0.5833333<br />Score.drive: FALSE", "O.drive.number: 14<br />Success.rate: 0.5833333<br />Score.drive: FALSE"],
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(130,138,143,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "FALSE",
+      "legendgroup": "FALSE",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": [0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999, 0.899999999999999],
+      "base": [0, 0.583333333333333, 1.16666666666667, 1.75, 0, 1, 2, 3, 0, 0.680555555555556, 1.36111111111111, 2.04166666666667, 0, 0.424242424242424, 0.848484848484849, 1.27272727272727, 0, 0.583333333333333, 1.16666666666667, 1.75, 0, 0.583333333333333, 1.16666666666667, 1.75, 0, 0.466666666666667, 0.933333333333333, 1.4],
+      "x": [1, 1, 1, 1, 4, 4, 4, 4, 5, 5, 5, 5, 10, 10, 10, 10, 11, 11, 11, 11, 12, 12, 12, 12, 13, 13, 13, 13],
+      "y": [0.583333333333333, 0.583333333333333, 0.583333333333333, 0.583333333333333, 1, 1, 1, 1, 0.680555555555556, 0.680555555555556, 0.680555555555556, 0.680555555555556, 0.424242424242424, 0.424242424242424, 0.424242424242424, 0.424242424242424, 0.583333333333333, 0.583333333333333, 0.583333333333333, 0.583333333333333, 0.583333333333333, 0.583333333333333, 0.583333333333333, 0.583333333333333, 0.466666666666667, 0.466666666666667, 0.466666666666667, 0.466666666666667],
+      "text": ["O.drive.number:  1<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number:  1<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number:  1<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number:  1<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number:  4<br />Success.rate: 1.0000000<br />Score.drive:  TRUE", "O.drive.number:  4<br />Success.rate: 1.0000000<br />Score.drive:  TRUE", "O.drive.number:  4<br />Success.rate: 1.0000000<br />Score.drive:  TRUE", "O.drive.number:  4<br />Success.rate: 1.0000000<br />Score.drive:  TRUE", "O.drive.number:  5<br />Success.rate: 0.6805556<br />Score.drive:  TRUE", "O.drive.number:  5<br />Success.rate: 0.6805556<br />Score.drive:  TRUE", "O.drive.number:  5<br />Success.rate: 0.6805556<br />Score.drive:  TRUE", "O.drive.number:  5<br />Success.rate: 0.6805556<br />Score.drive:  TRUE", "O.drive.number: 10<br />Success.rate: 0.4242424<br />Score.drive:  TRUE", "O.drive.number: 10<br />Success.rate: 0.4242424<br />Score.drive:  TRUE", "O.drive.number: 10<br />Success.rate: 0.4242424<br />Score.drive:  TRUE", "O.drive.number: 10<br />Success.rate: 0.4242424<br />Score.drive:  TRUE", "O.drive.number: 11<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number: 11<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number: 11<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number: 11<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number: 12<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number: 12<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number: 12<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number: 12<br />Success.rate: 0.5833333<br />Score.drive:  TRUE", "O.drive.number: 13<br />Success.rate: 0.4666667<br />Score.drive:  TRUE", "O.drive.number: 13<br />Success.rate: 0.4666667<br />Score.drive:  TRUE", "O.drive.number: 13<br />Success.rate: 0.4666667<br />Score.drive:  TRUE", "O.drive.number: 13<br />Success.rate: 0.4666667<br />Score.drive:  TRUE"],
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(158,27,50,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "TRUE",
+      "legendgroup": "TRUE",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": [0.225, 0.225, 0.225000000000001, 0.225000000000001, 0.225, 0.225, 0.225, 0.225, 0.224999999999998, 0.224999999999998, 0.224999999999998, 0.224999999999998, 0.224999999999998, 0.224999999999998],
+      "base": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "x": [0.6625, 1.6625, 2.6625, 3.6625, 4.6625, 5.6625, 6.6625, 7.6625, 8.6625, 9.6625, 10.6625, 11.6625, 12.6625, 13.6625],
+      "y": [0.4, 0.333333333333333, 0.666666666666667, 1, 0.5, 0.333333333333333, 0, 0, 0, 0.2, 0.5, 0.5, 0, 0.5],
+      "text": ["O.drive.number:  1<br />Success.rate.down: 0.4000000<br />Down: 1", "O.drive.number:  2<br />Success.rate.down: 0.3333333<br />Down: 1", "O.drive.number:  3<br />Success.rate.down: 0.6666667<br />Down: 1", "O.drive.number:  4<br />Success.rate.down: 1.0000000<br />Down: 1", "O.drive.number:  5<br />Success.rate.down: 0.5000000<br />Down: 1", "O.drive.number:  6<br />Success.rate.down: 0.3333333<br />Down: 1", "O.drive.number:  7<br />Success.rate.down: 0.0000000<br />Down: 1", "O.drive.number:  8<br />Success.rate.down: 0.0000000<br />Down: 1", "O.drive.number:  9<br />Success.rate.down: 0.0000000<br />Down: 1", "O.drive.number: 10<br />Success.rate.down: 0.2000000<br />Down: 1", "O.drive.number: 11<br />Success.rate.down: 0.5000000<br />Down: 1", "O.drive.number: 12<br />Success.rate.down: 0.5000000<br />Down: 1", "O.drive.number: 13<br />Success.rate.down: 0.0000000<br />Down: 1", "O.drive.number: 14<br />Success.rate.down: 0.5000000<br />Down: 1"],
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,139,139,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "1",
+      "legendgroup": "1",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": [0.225, 0.225, 0.225, 0.225, 0.225, 0.225, 0.225, 0.225, 0.225000000000001, 0.225000000000001, 0.225000000000001, 0.225000000000001, 0.225000000000001, 0.225000000000001],
+      "base": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "x": [0.8875, 1.8875, 2.8875, 3.8875, 4.8875, 5.8875, 6.8875, 7.8875, 8.8875, 9.8875, 10.8875, 11.8875, 12.8875, 13.8875],
+      "y": [0.25, 0.666666666666667, 1, 0.5, 0.5, 0.5, 0, 0, 0, 0.5, 0, 0, 0.5, 0],
+      "text": ["O.drive.number:  1<br />Success.rate.down: 0.2500000<br />Down: 2", "O.drive.number:  2<br />Success.rate.down: 0.6666667<br />Down: 2", "O.drive.number:  3<br />Success.rate.down: 1.0000000<br />Down: 2", "O.drive.number:  4<br />Success.rate.down: 0.5000000<br />Down: 2", "O.drive.number:  5<br />Success.rate.down: 0.5000000<br />Down: 2", "O.drive.number:  6<br />Success.rate.down: 0.5000000<br />Down: 2", "O.drive.number:  7<br />Success.rate.down: 0.0000000<br />Down: 2", "O.drive.number:  8<br />Success.rate.down: 0.0000000<br />Down: 2", "O.drive.number:  9<br />Success.rate.down: 0.0000000<br />Down: 2", "O.drive.number: 10<br />Success.rate.down: 0.5000000<br />Down: 2", "O.drive.number: 11<br />Success.rate.down: 0.0000000<br />Down: 2", "O.drive.number: 12<br />Success.rate.down: 0.0000000<br />Down: 2", "O.drive.number: 13<br />Success.rate.down: 0.5000000<br />Down: 2", "O.drive.number: 14<br />Success.rate.down: 0.0000000<br />Down: 2"],
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,205,205,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "2",
+      "legendgroup": "2",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": [0.225, 0.225, 0.225, 0.225, 0.225, 0.225, 0.225, 0.225000000000001, 0.225000000000001, 0.225000000000001, 0.225000000000001, 0.225000000000001, 0.225000000000001, 0.225000000000001],
+      "base": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "x": [1.1125, 2.1125, 3.1125, 4.1125, 5.1125, 6.1125, 7.1125, 8.1125, 9.1125, 10.1125, 11.1125, 12.1125, 13.1125, 14.1125],
+      "y": [1, 0, 1, 1, 1, 0, 0, 0, 0.666666666666667, 0.5, 1, 1, 1, 1],
+      "text": ["O.drive.number:  1<br />Success.rate.down: 1.0000000<br />Down: 3", "O.drive.number:  2<br />Success.rate.down: 0.0000000<br />Down: 3", "O.drive.number:  3<br />Success.rate.down: 1.0000000<br />Down: 3", "O.drive.number:  4<br />Success.rate.down: 1.0000000<br />Down: 3", "O.drive.number:  5<br />Success.rate.down: 1.0000000<br />Down: 3", "O.drive.number:  6<br />Success.rate.down: 0.0000000<br />Down: 3", "O.drive.number:  7<br />Success.rate.down: 0.0000000<br />Down: 3", "O.drive.number:  8<br />Success.rate.down: 0.0000000<br />Down: 3", "O.drive.number:  9<br />Success.rate.down: 0.6666667<br />Down: 3", "O.drive.number: 10<br />Success.rate.down: 0.5000000<br />Down: 3", "O.drive.number: 11<br />Success.rate.down: 1.0000000<br />Down: 3", "O.drive.number: 12<br />Success.rate.down: 1.0000000<br />Down: 3", "O.drive.number: 13<br />Success.rate.down: 1.0000000<br />Down: 3", "O.drive.number: 14<br />Success.rate.down: 1.0000000<br />Down: 3"],
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,238,238,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "3",
+      "legendgroup": "3",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": [0.225, 0.225, 0.225000000000001, 0.225, 0.225, 0.225, 0.225, 0.225000000000001, 0.224999999999998, 0.224999999999998, 0.224999999999998, 0.224999999999998, 0.224999999999998, 0.224999999999998],
+      "base": [null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+      "x": [1.3375, 2.3375, 3.3375, 4.3375, 5.3375, 6.3375, 7.3375, 8.3375, 9.3375, 10.3375, 11.3375, 12.3375, 13.3375, 14.3375],
+      "y": [null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+      "text": ["O.drive.number:  1<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number:  2<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number:  3<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number:  4<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number:  5<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number:  6<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number:  7<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number:  8<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number:  9<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number: 10<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number: 11<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number: 12<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number: 13<br />Success.rate.down:        NA<br />Down: 4", "O.drive.number: 14<br />Success.rate.down:        NA<br />Down: 4"],
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,255,255,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "4",
+      "legendgroup": "4",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 10, 10, 10, 10, 11, 11, 11, 11, 12, 12, 12, 12, 13, 13, 13, 13, 14, 14, 14, 14],
+      "y": [2.33333333333333, 2.33333333333333, 2.33333333333333, 2.33333333333333, 2, 2, 2, 2, 3.73333333333333, 3.73333333333333, 3.73333333333333, 3.73333333333333, 4, 4, 4, 4, 2.72222222222222, 2.72222222222222, 2.72222222222222, 2.72222222222222, 1.55555555555556, 1.55555555555556, 1.55555555555556, 1.55555555555556, 0, 0, 0, 0, 0, 0, 0, 0, 1.03703703703704, 1.03703703703704, 1.03703703703704, 1.03703703703704, 1.6969696969697, 1.6969696969697, 1.6969696969697, 1.6969696969697, 2.33333333333333, 2.33333333333333, 2.33333333333333, 2.33333333333333, 2.33333333333333, 2.33333333333333, 2.33333333333333, 2.33333333333333, 1.86666666666667, 1.86666666666667, 1.86666666666667, 1.86666666666667, 2.33333333333333, 2.33333333333333, 2.33333333333333, 2.33333333333333],
+      "text": [12, 12, 12, 12, 7, 7, 7, 7, 5, 5, 5, 5, 7, 7, 7, 7, 12, 12, 12, 12, 6, 6, 6, 6, 3, 3, 3, 3, 3, 3, 3, 3, 9, 9, 9, 9, 11, 11, 11, 11, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 4, 4, 4, 4],
+      "hovertext": ["O.drive.number:  1<br />4 * Success.rate: 2.333333<br />Total.drive: 12", "O.drive.number:  1<br />4 * Success.rate: 2.333333<br />Total.drive: 12", "O.drive.number:  1<br />4 * Success.rate: 2.333333<br />Total.drive: 12", "O.drive.number:  1<br />4 * Success.rate: 2.333333<br />Total.drive: 12", "O.drive.number:  2<br />4 * Success.rate: 2.000000<br />Total.drive:  7", "O.drive.number:  2<br />4 * Success.rate: 2.000000<br />Total.drive:  7", "O.drive.number:  2<br />4 * Success.rate: 2.000000<br />Total.drive:  7", "O.drive.number:  2<br />4 * Success.rate: 2.000000<br />Total.drive:  7", "O.drive.number:  3<br />4 * Success.rate: 3.733333<br />Total.drive:  5", "O.drive.number:  3<br />4 * Success.rate: 3.733333<br />Total.drive:  5", "O.drive.number:  3<br />4 * Success.rate: 3.733333<br />Total.drive:  5", "O.drive.number:  3<br />4 * Success.rate: 3.733333<br />Total.drive:  5", "O.drive.number:  4<br />4 * Success.rate: 4.000000<br />Total.drive:  7", "O.drive.number:  4<br />4 * Success.rate: 4.000000<br />Total.drive:  7", "O.drive.number:  4<br />4 * Success.rate: 4.000000<br />Total.drive:  7", "O.drive.number:  4<br />4 * Success.rate: 4.000000<br />Total.drive:  7", "O.drive.number:  5<br />4 * Success.rate: 2.722222<br />Total.drive: 12", "O.drive.number:  5<br />4 * Success.rate: 2.722222<br />Total.drive: 12", "O.drive.number:  5<br />4 * Success.rate: 2.722222<br />Total.drive: 12", "O.drive.number:  5<br />4 * Success.rate: 2.722222<br />Total.drive: 12", "O.drive.number:  6<br />4 * Success.rate: 1.555556<br />Total.drive:  6", "O.drive.number:  6<br />4 * Success.rate: 1.555556<br />Total.drive:  6", "O.drive.number:  6<br />4 * Success.rate: 1.555556<br />Total.drive:  6", "O.drive.number:  6<br />4 * Success.rate: 1.555556<br />Total.drive:  6", "O.drive.number:  7<br />4 * Success.rate: 0.000000<br />Total.drive:  3", "O.drive.number:  7<br />4 * Success.rate: 0.000000<br />Total.drive:  3", "O.drive.number:  7<br />4 * Success.rate: 0.000000<br />Total.drive:  3", "O.drive.number:  7<br />4 * Success.rate: 0.000000<br />Total.drive:  3", "O.drive.number:  8<br />4 * Success.rate: 0.000000<br />Total.drive:  3", "O.drive.number:  8<br />4 * Success.rate: 0.000000<br />Total.drive:  3", "O.drive.number:  8<br />4 * Success.rate: 0.000000<br />Total.drive:  3", "O.drive.number:  8<br />4 * Success.rate: 0.000000<br />Total.drive:  3", "O.drive.number:  9<br />4 * Success.rate: 1.037037<br />Total.drive:  9", "O.drive.number:  9<br />4 * Success.rate: 1.037037<br />Total.drive:  9", "O.drive.number:  9<br />4 * Success.rate: 1.037037<br />Total.drive:  9", "O.drive.number:  9<br />4 * Success.rate: 1.037037<br />Total.drive:  9", "O.drive.number: 10<br />4 * Success.rate: 1.696970<br />Total.drive: 11", "O.drive.number: 10<br />4 * Success.rate: 1.696970<br />Total.drive: 11", "O.drive.number: 10<br />4 * Success.rate: 1.696970<br />Total.drive: 11", "O.drive.number: 10<br />4 * Success.rate: 1.696970<br />Total.drive: 11", "O.drive.number: 11<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 11<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 11<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 11<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 12<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 12<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 12<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 12<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 13<br />4 * Success.rate: 1.866667<br />Total.drive:  5", "O.drive.number: 13<br />4 * Success.rate: 1.866667<br />Total.drive:  5", "O.drive.number: 13<br />4 * Success.rate: 1.866667<br />Total.drive:  5", "O.drive.number: 13<br />4 * Success.rate: 1.866667<br />Total.drive:  5", "O.drive.number: 14<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 14<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 14<br />4 * Success.rate: 2.333333<br />Total.drive:  4", "O.drive.number: 14<br />4 * Success.rate: 2.333333<br />Total.drive:  4"],
+      "textfont": {
+        "size": 14.6645669291339,
+        "color": "rgba(0,0,0,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  layout: {
+    "margin": {
+      "t": 41.0425898483151,
+      "r": 7.30593607305936,
+      "b": 37.462681172516,
+      "l": 43.1050228310502
+    },
+    "plot_bgcolor": "rgba(229,229,229,1)",
+    "paper_bgcolor": "rgba(255,255,255,1)",
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 14.6118721461187
+    },
+    "title": {
+      "text": "Alabama[52]: Success rate by Drive broken down by Down with success calculated by Down",
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 17.5342465753425
+      },
+      "x": 0,
+      "xref": "paper"
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-0.145, 15.145],
+      "tickmode": "array",
+      "ticktext": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14"],
+      "tickvals": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      "categoryorder": "array",
+      "categoryarray": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0.66417600664176,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": true,
+      "gridcolor": "rgba(204,204,204,1)",
+      "gridwidth": 0.66417600664176,
+      "zeroline": false,
+      "anchor": "y",
+      "title": {
+        "text": "O.drive.number",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 14.6118721461187
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-0.2, 4.2],
+      "tickmode": "array",
+      "ticktext": ["0.0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0"],
+      "tickvals": [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1],
+      "categoryorder": "array",
+      "categoryarray": ["0.0", "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8", "0.9", "1.0"],
+      "nticks": null,
+      "ticks": "outside",
+      "tickcolor": "rgba(51,51,51,1)",
+      "ticklen": 3.65296803652968,
+      "tickwidth": 0.66417600664176,
+      "showticklabels": true,
+      "tickfont": {
+        "color": "rgba(77,77,77,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": true,
+      "gridcolor": "rgba(204,204,204,1)",
+      "gridwidth": 0.66417600664176,
+      "zeroline": false,
+      "anchor": "x",
+      "title": {
+        "text": "SR by Down",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 14.6118721461187
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": true,
+    "legend": {
+      "bgcolor": "rgba(255,255,255,1)",
+      "bordercolor": "transparent",
+      "borderwidth": 1.88976377952756,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 11.689497716895
+      },
+      "title": {
+        "text": "TD/Down",
+        "font": {
+          "color": "rgba(0,0,0,1)",
+          "family": "",
+          "size": 14.6118721461187
+        }
+      }
+    },
+    "hovermode": "closest",
+    "barmode": "relative"
+  },
+  config: {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": ["hoverclosest", "hovercompare"],
+    "showSendToCloud": false
+  },
+  source: "A",
+  attrs: {
+    "531443336870": {
+      "x": {},
+      "y": {},
+      "fill": {},
+      "type": "bar"
+    },
+    "531414537f18": {
+      "x": {},
+      "y": {},
+      "fill": {}
+    },
+    "53145bef3193": {
+      "x": {},
+      "y": {},
+      "label": {}
+    }
+  },
+  cur_data: "531443336870",
+  visdat: {
+    "531443336870": ["function (y) ", "x"],
+    "531414537f18": ["function (y) ", "x"],
+    "53145bef3193": ["function (y) ", "x"]
+  },
+  highlight: {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  shinyEvents: ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  base_url: "https://plot.ly"
+}
