@@ -1,158 +1,14 @@
 {
   data: [
     {
-      "x": [10, 10],
-      "y": [-4.02855424748501, 21.9017253386113],
-      "text": "xintercept: 10",
+      "x": [0.147554337931797, 18.7526049105916],
+      "y": [0.147554337931797, 18.7526049105916],
+      "text": "yint: 0<br />slope: 1",
       "type": "scatter",
       "mode": "lines",
       "line": {
         "width": 1.88976377952756,
         "color": "rgba(0,0,0,1)",
-        "dash": "dash"
-      },
-      "hoveron": "points",
-      "showlegend": false,
-      "xaxis": "x",
-      "yaxis": "y",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [10, 10],
-      "y": [-12.6009150773054, 28.5831326693995],
-      "text": "xintercept: 10",
-      "type": "scatter",
-      "mode": "lines",
-      "line": {
-        "width": 1.88976377952756,
-        "color": "rgba(0,0,0,1)",
-        "dash": "dash"
-      },
-      "hoveron": "points",
-      "showlegend": false,
-      "xaxis": "x2",
-      "yaxis": "y2",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [10, 10],
-      "y": [-3.51439933695365, 68.4739127787994],
-      "text": "xintercept: 10",
-      "type": "scatter",
-      "mode": "lines",
-      "line": {
-        "width": 1.88976377952756,
-        "color": "rgba(0,0,0,1)",
-        "dash": "dash"
-      },
-      "hoveron": "points",
-      "showlegend": false,
-      "xaxis": "x3",
-      "yaxis": "y3",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [10, 10],
-      "y": [-0.75, 15.75],
-      "text": "xintercept: 10",
-      "type": "scatter",
-      "mode": "lines",
-      "line": {
-        "width": 1.88976377952756,
-        "color": "rgba(0,0,0,1)",
-        "dash": "dash"
-      },
-      "hoveron": "points",
-      "showlegend": false,
-      "xaxis": "x4",
-      "yaxis": "y4",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [3.4791921712365, 15.7950176319201],
-      "y": [3.4791921712365, 15.7950176319201],
-      "text": "intercept: 0<br />slope: 1",
-      "type": "scatter",
-      "mode": "lines",
-      "line": {
-        "width": 1.88976377952756,
-        "color": "rgba(0,0,0,1)",
-        "dash": "dashdot"
-      },
-      "hoveron": "points",
-      "showlegend": false,
-      "xaxis": "x",
-      "yaxis": "y",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [0.238597010988742, 15.749774943497],
-      "y": [0.238597010988742, 15.749774943497],
-      "text": "intercept: 0<br />slope: 1",
-      "type": "scatter",
-      "mode": "lines",
-      "line": {
-        "width": 1.88976377952756,
-        "color": "rgba(0,0,0,1)",
-        "dash": "dashdot"
-      },
-      "hoveron": "points",
-      "showlegend": false,
-      "xaxis": "x2",
-      "yaxis": "y2",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [-0.178894334258512, 18.6905667626951],
-      "y": [-0.178894334258512, 18.6905667626951],
-      "text": "intercept: 0<br />slope: 1",
-      "type": "scatter",
-      "mode": "lines",
-      "line": {
-        "width": 1.88976377952756,
-        "color": "rgba(0,0,0,1)",
-        "dash": "dashdot"
-      },
-      "hoveron": "points",
-      "showlegend": false,
-      "xaxis": "x3",
-      "yaxis": "y3",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [9.95, 10.05],
-      "y": [9.95, 10.05],
-      "text": "intercept: 0<br />slope: 1",
-      "type": "scatter",
-      "mode": "lines",
-      "line": {
-        "width": 1.88976377952756,
-        "color": "rgba(0,0,0,1)",
-        "dash": "dashdot"
-      },
-      "hoveron": "points",
-      "showlegend": false,
-      "xaxis": "x4",
-      "yaxis": "y4",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [3.4791921712365, 15.7950176319201],
-      "y": [1.73959608561825, 7.89750881596003],
-      "text": "yint: 0<br />slope: 0.5",
-      "type": "scatter",
-      "mode": "lines",
-      "line": {
-        "width": 1.88976377952756,
-        "color": "rgba(0,100,0,1)",
         "dash": "solid"
       },
       "hoveron": "points",
@@ -163,63 +19,63 @@
       "frame": null
     },
     {
-      "x": [0.238597010988742, 15.749774943497],
-      "y": [0.167017907692119, 11.0248424604479],
-      "text": "yint: 0<br />slope: 0.7",
+      "x": [0.147554337931797, 18.7526049105916],
+      "y": [0.147554337931797, 18.7526049105916],
+      "text": "yint: 0<br />slope: 1",
       "type": "scatter",
       "mode": "lines",
       "line": {
         "width": 1.88976377952756,
-        "color": "rgba(0,0,255,1)",
+        "color": "rgba(0,0,0,1)",
         "dash": "solid"
       },
       "hoveron": "points",
       "showlegend": false,
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [-0.178894334258512, 18.6905667626951],
-      "y": [-0.178894334258512, 18.6905667626951],
-      "text": "yint: 0<br />slope: 1.0",
+      "x": [0.147554337931797, 18.7526049105916],
+      "y": [0.147554337931797, 18.7526049105916],
+      "text": "yint: 0<br />slope: 1",
       "type": "scatter",
       "mode": "lines",
       "line": {
         "width": 1.88976377952756,
-        "color": "rgba(160,32,240,1)",
+        "color": "rgba(0,0,0,1)",
         "dash": "solid"
       },
       "hoveron": "points",
       "showlegend": false,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [9.95, 10.05],
-      "y": [9.95, 10.05],
-      "text": "yint: 0<br />slope: 1.0",
+      "x": [0.147554337931797, 18.7526049105916],
+      "y": [0.147554337931797, 18.7526049105916],
+      "text": "yint: 0<br />slope: 1",
       "type": "scatter",
       "mode": "lines",
       "line": {
         "width": 1.88976377952756,
-        "color": "rgba(160,32,240,1)",
+        "color": "rgba(0,0,0,1)",
         "dash": "solid"
       },
       "hoveron": "points",
       "showlegend": false,
       "xaxis": "x4",
-      "yaxis": "y4",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [10.0304438946769, 10.3258819462731, 10.2858398411423, 9.70889295171946, 10.0865639930591, 10.3604849306867, 10.1746424090117, 9.81471007689834],
-      "y": [6.13109307512641, 20.2447279100772, 15.9874244591221, 10.2250059364829, 12.9928830457386, 11.8407741250936, 20.723076266516, 9.83004522854462],
-      "text": ["Distance: 10<br />Yards.gained:   6<br />Play.type: Pass Reception<br />Success: Successful", "Distance: 10<br />Yards.gained:  20<br />Play.type: Pass Reception<br />Success: Successful", "Distance: 10<br />Yards.gained:  16<br />Play.type: Pass Reception<br />Success: Successful", "Distance: 10<br />Yards.gained:  10<br />Play.type: Pass Reception<br />Success: Successful", "Distance: 10<br />Yards.gained:  13<br />Play.type: Pass Reception<br />Success: Successful", "Distance: 10<br />Yards.gained:  12<br />Play.type: Pass Reception<br />Success: Successful", "Distance: 10<br />Yards.gained:  21<br />Play.type: Pass Reception<br />Success: Successful", "Distance: 10<br />Yards.gained:  10<br />Play.type: Pass Reception<br />Success: Successful"],
+      "x": [5.26784005314112, 5.01440458297729, 4.78320142645389, 5.33450385667384, 5.07274664472789, 5.03269805107266, 4.76928155720234, 4.99036359526217],
+      "y": [5.91520476015285, 19.8328617813066, 16.1522262492683, 10.091157017462, 12.9887449360453, 12.0473223508336, 20.9131150631234, 9.93165212729946],
+      "text": ["Yards.to.success:  5.0<br />Yards.gained:   6<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:  20<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:  16<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:  10<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:  13<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:  12<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:  21<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:  10<br />Play.type: Pass Reception<br />Success: Successful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -243,9 +99,9 @@
       "frame": null
     },
     {
-      "x": [7.94731156267226, 3.82664865776896, 1.64859061017632, 8.12332854308188],
-      "y": [26.7111304990947, 6.17893414590508, 5.92406608066522, 26.1926612020005],
-      "text": ["Distance:  8<br />Yards.gained:  27<br />Play.type: Pass Reception<br />Success: Successful", "Distance:  4<br />Yards.gained:   6<br />Play.type: Pass Reception<br />Success: Successful", "Distance:  2<br />Yards.gained:   6<br />Play.type: Pass Reception<br />Success: Successful", "Distance:  8<br />Yards.gained:  26<br />Play.type: Pass Reception<br />Success: Successful"],
+      "x": [5.28561648055911, 2.9616309273988, 1.08928160816431, 5.23738022204488],
+      "y": [27.2026056106668, 6.1483077423647, 5.74863835657015, 25.9921115896199],
+      "text": ["Yards.to.success:  5.6<br />Yards.gained:  27<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  2.8<br />Yards.gained:   6<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  1.4<br />Yards.gained:   6<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.6<br />Yards.gained:  26<br />Play.type: Pass Reception<br />Success: Successful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -264,14 +120,14 @@
       "legendgroup": "(Successful,Pass Reception)",
       "showlegend": false,
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [6.92810024656355, 4.69360780771822, 4.61115020718425, 0.678808442875743, 6.18833373710513, 11.6161743629724, 7.39636383000761, 15.1569048011675],
-      "y": [8.06454831422307, 8.16293121716008, 33.7795583582018, 16.8565552257933, 15.7572935015429, 27.8394552720245, 14.1513306765817, 65.2017167735379],
-      "text": ["Distance:  7<br />Yards.gained:   8<br />Play.type: Pass Reception<br />Success: Successful", "Distance:  5<br />Yards.gained:   8<br />Play.type: Pass Reception<br />Success: Successful", "Distance:  5<br />Yards.gained:  34<br />Play.type: Pass Reception<br />Success: Successful", "Distance:  1<br />Yards.gained:  17<br />Play.type: Pass Reception<br />Success: Successful", "Distance:  6<br />Yards.gained:  16<br />Play.type: Pass Reception<br />Success: Successful", "Distance: 12<br />Yards.gained:  28<br />Play.type: Pass Reception<br />Success: Successful", "Distance:  7<br />Yards.gained:  14<br />Play.type: Pass Reception<br />Success: Successful", "Distance: 15<br />Yards.gained:  65<br />Play.type: Pass Reception<br />Success: Successful"],
+      "x": [6.92351599801332, 5.39935370758176, 5.09707246236503, 1.14555749688298, 5.82879226505756, 12.1473104894161, 6.89917537961155, 14.6344119148329],
+      "y": [8.25623709531501, 8.2622882715892, 34.0933581389021, 17.1162976795342, 16.2700360279065, 28.260520294914, 14.1070862268098, 65.0408298779745],
+      "text": ["Yards.to.success:  7.0<br />Yards.gained:   8<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:   8<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:  34<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  1.0<br />Yards.gained:  17<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  6.0<br />Yards.gained:  16<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success: 12.0<br />Yards.gained:  28<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success:  7.0<br />Yards.gained:  14<br />Play.type: Pass Reception<br />Success: Successful", "Yards.to.success: 15.0<br />Yards.gained:  65<br />Play.type: Pass Reception<br />Success: Successful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -290,14 +146,14 @@
       "legendgroup": "(Successful,Pass Reception)",
       "showlegend": false,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [5.72342818100005],
-      "y": [6.17542400979437],
-      "text": "Distance:  6<br />Yards.gained:   6<br />Play.type: Passing Touchdown<br />Success: Successful",
+      "x": [2.89612493924797],
+      "y": [5.80198611658998],
+      "text": "Yards.to.success:  3.0<br />Yards.gained:   6<br />Play.type: Passing Touchdown<br />Success: Successful",
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -321,9 +177,9 @@
       "frame": null
     },
     {
-      "x": [9.19933582246304],
-      "y": [18.7356711925007],
-      "text": "Distance:  9<br />Yards.gained:  19<br />Play.type: Passing Touchdown<br />Success: Successful",
+      "x": [8.70339986439794],
+      "y": [18.9106518598273],
+      "text": "Yards.to.success:  9.0<br />Yards.gained:  19<br />Play.type: Passing Touchdown<br />Success: Successful",
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -342,14 +198,14 @@
       "legendgroup": "(Successful,Passing Touchdown)",
       "showlegend": false,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [10.1496836159378, 9.66782460939139, 10.0077646775171, 9.68909786492586, 4.03900241944939, 10.0965762643144],
-      "y": [6.17831738605164, 8.07573649478145, 5.29322560545988, 7.8823369841557, 2.96408037850633, 5.7077239909675],
-      "text": ["Distance: 10<br />Yards.gained:   6<br />Play.type: Rush<br />Success: Successful", "Distance: 10<br />Yards.gained:   8<br />Play.type: Rush<br />Success: Successful", "Distance: 10<br />Yards.gained:   5<br />Play.type: Rush<br />Success: Successful", "Distance: 10<br />Yards.gained:   8<br />Play.type: Rush<br />Success: Successful", "Distance:  4<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Successful", "Distance: 10<br />Yards.gained:   6<br />Play.type: Rush<br />Success: Successful"],
+      "x": [5.13413293529302, 5.30168419592083, 5.2233954615891, 4.65011200662702, 1.68983529750258, 4.94789865706116],
+      "y": [5.82435957714915, 7.81906967479736, 4.9140335814096, 7.76093444116414, 3.20144027718343, 5.84978556730784],
+      "text": ["Yards.to.success:  5.0<br />Yards.gained:   6<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:   8<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:   5<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:   8<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  2.0<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:   6<br />Play.type: Rush<br />Success: Successful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -373,9 +229,9 @@
       "frame": null
     },
     {
-      "x": [8.34265231303871, 9.95623703878373, 2.36484764013439, 10.0916224084795, 11.167733604461, 5.89680340699852, 6.21433756165206],
-      "y": [11.9683855152223, 8.89909009071998, 2.73059668075293, 13.2748213299084, 11.0271713342983, 8.94544776328839, 6.13366094338708],
-      "text": ["Distance:  8<br />Yards.gained:  12<br />Play.type: Rush<br />Success: Successful", "Distance: 10<br />Yards.gained:   9<br />Play.type: Rush<br />Success: Successful", "Distance:  2<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Successful", "Distance: 10<br />Yards.gained:  13<br />Play.type: Rush<br />Success: Successful", "Distance: 11<br />Yards.gained:  11<br />Play.type: Rush<br />Success: Successful", "Distance:  6<br />Yards.gained:   9<br />Play.type: Rush<br />Success: Successful", "Distance:  6<br />Yards.gained:   6<br />Play.type: Rush<br />Success: Successful"],
+      "x": [5.67840812895447, 6.72744121924043, 1.11133430618793, 6.96066742390394, 7.51109229791909, 4.12945205457508, 4.15158430635929],
+      "y": [12.2387641105335, 9.16938613252714, 3.11856045001186, 13.2203849218786, 11.1747026567813, 8.91148619139567, 5.90366978575476],
+      "text": ["Yards.to.success:  5.6<br />Yards.gained:  12<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  7.0<br />Yards.gained:   9<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  1.4<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  7.0<br />Yards.gained:  13<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  7.7<br />Yards.gained:  11<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  4.2<br />Yards.gained:   9<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  4.2<br />Yards.gained:   6<br />Play.type: Rush<br />Success: Successful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -394,14 +250,14 @@
       "legendgroup": "(Successful,Rush)",
       "showlegend": false,
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [6.74021066967398, 7.30107424575835, 2.09612706471235],
-      "y": [10.9170133260544, 15.85626997496, 11.1030107429251],
-      "text": ["Distance:  7<br />Yards.gained:  11<br />Play.type: Rush<br />Success: Successful", "Distance:  7<br />Yards.gained:  16<br />Play.type: Rush<br />Success: Successful", "Distance:  2<br />Yards.gained:  11<br />Play.type: Rush<br />Success: Successful"],
+      "x": [7.34384775832295, 7.09016002323478, 1.76884833499789],
+      "y": [10.8579746283125, 16.1908036662266, 11.219248828385],
+      "text": ["Yards.to.success:  7.0<br />Yards.gained:  11<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  7.0<br />Yards.gained:  16<br />Play.type: Rush<br />Success: Successful", "Yards.to.success:  2.0<br />Yards.gained:  11<br />Play.type: Rush<br />Success: Successful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -420,14 +276,14 @@
       "legendgroup": "(Successful,Rush)",
       "showlegend": false,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [7.76203068457544, 10.1773633332923],
-      "y": [8.249772618711, 14.7282492246944],
-      "text": ["Distance:  8<br />Yards.gained:   8<br />Play.type: Rushing Touchdown<br />Success: Successful", "Distance: 10<br />Yards.gained:  15<br />Play.type: Rushing Touchdown<br />Success: Successful"],
+      "x": [4.31428181380033, 5.21957751959562],
+      "y": [7.97110229874961, 15.2648979800753],
+      "text": ["Yards.to.success:  4.0<br />Yards.gained:   8<br />Play.type: Rushing Touchdown<br />Success: Successful", "Yards.to.success:  5.0<br />Yards.gained:  15<br />Play.type: Rushing Touchdown<br />Success: Successful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -451,9 +307,9 @@
       "frame": null
     },
     {
-      "x": [5.36987588182092, 1.04961206056178],
-      "y": [4.81039299922995, 1.25509887672961],
-      "text": ["Distance:  5<br />Yards.gained:   5<br />Play.type: Rushing Touchdown<br />Success: Successful", "Distance:  1<br />Yards.gained:   1<br />Play.type: Rushing Touchdown<br />Success: Successful"],
+      "x": [5.33015858512372, 1.36099882069975],
+      "y": [4.97428630716167, 0.739692362491041],
+      "text": ["Yards.to.success:  5.0<br />Yards.gained:   5<br />Play.type: Rushing Touchdown<br />Success: Successful", "Yards.to.success:  1.0<br />Yards.gained:   1<br />Play.type: Rushing Touchdown<br />Success: Successful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -472,14 +328,14 @@
       "legendgroup": "(Successful,Rushing Touchdown)",
       "showlegend": false,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [3.74970157276839],
-      "y": [-0.097579211415723],
-      "text": "Distance:  4<br />Yards.gained:   0<br />Play.type: Fumble Recovery (Own)<br />Success: Unsuccessful",
+      "x": [3.98770133573562],
+      "y": [-0.190155308693647],
+      "text": "Yards.to.success:  4.0<br />Yards.gained:   0<br />Play.type: Fumble Recovery (Own)<br />Success: Unsuccessful",
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -498,14 +354,14 @@
       "legendgroup": "(Unsuccessful,Fumble Recovery (Own))",
       "showlegend": true,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [9.94430680796504, 10.3800845559686, 9.984108363837, 15.2352073837072, 10.0512015001848],
-      "y": [0.217385352076963, 0.285322879627347, -0.10312853353098, -0.122389904223382, -0.146083342703059],
-      "text": ["Distance: 10<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Distance: 15<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful"],
+      "x": [5.01256149504334, 4.91626840494573, 5.33964211065322, 7.38496731314808, 5.00075136367232],
+      "y": [-0.192706299712881, 0.21338436906226, -0.285654254537076, -0.199474548082799, 0.0917907341849059],
+      "text": ["Yards.to.success:  5.0<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Yards.to.success:  7.5<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -529,9 +385,9 @@
       "frame": null
     },
     {
-      "x": [7.26812541726977, 13.0094796208665, 8.29969334136695],
-      "y": [-0.0217168743722141, -0.2086049514357, -0.0776207668706775],
-      "text": ["Distance:  7<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Distance: 13<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Distance:  8<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful"],
+      "x": [4.85391250699758, 9.10314813442528, 5.55344676785171],
+      "y": [-0.170889431471005, 0.0595200546551496, -0.25558042852208],
+      "text": ["Yards.to.success:  4.9<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Yards.to.success:  9.1<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Yards.to.success:  5.6<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -550,14 +406,14 @@
       "legendgroup": "(Unsuccessful,Pass Incompletion)",
       "showlegend": false,
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [11.6139903090894, 17.8328639855608, 5.60219511687756, 7.86515716314316],
-      "y": [-0.073630723496899, 0.0303361213300377, -0.00754984100349249, -0.242203331692144],
-      "text": ["Distance: 12<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Distance: 18<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Distance:  6<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Distance:  8<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful"],
+      "x": [12.3222393386066, 17.9069207936525, 6.36384751237929, 8.02484230361879],
+      "y": [0.204449482960626, -0.139630032191053, -0.0204590136185289, -0.211243094131351],
+      "text": ["Yards.to.success: 12.0<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Yards.to.success: 18.0<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Yards.to.success:  6.0<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful", "Yards.to.success:  8.0<br />Yards.gained:   0<br />Play.type: Pass Incompletion<br />Success: Unsuccessful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -576,14 +432,14 @@
       "legendgroup": "(Unsuccessful,Pass Incompletion)",
       "showlegend": false,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [10.1325579011813, 10.3567281303927, 9.66600463856012, 10.0601454799995, 9.70858342982829],
-      "y": [-2.08810307886451, 3.00169306802563, -2.04771332847886, -2.84990517538972, 3.85863504796289],
-      "text": ["Distance: 10<br />Yards.gained:  -2<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   3<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:  -2<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:  -3<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   4<br />Play.type: Pass Reception<br />Success: Unsuccessful"],
+      "x": [5.37800110839307, 4.62814292833209, 5.26363879796118, 4.94944874215871, 4.61192767191678],
+      "y": [-1.79507536846213, 2.89222551528364, -1.86343949479051, -3.2345324689988, 3.94922634158283],
+      "text": ["Yards.to.success:  5.0<br />Yards.gained:  -2<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   3<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:  -2<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:  -3<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   4<br />Play.type: Pass Reception<br />Success: Unsuccessful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -607,9 +463,9 @@
       "frame": null
     },
     {
-      "x": [10.3314236519858, 11.6446716303006, 11.6626633314416, 10.1282775208354],
-      "y": [2.81427323757671, 7.03033279385418, 8.14591088001616, -4.79083775999024],
-      "text": ["Distance: 10<br />Yards.gained:   3<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Distance: 12<br />Yards.gained:   7<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Distance: 12<br />Yards.gained:   8<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:  -5<br />Play.type: Pass Reception<br />Success: Unsuccessful"],
+      "x": [6.61490397378802, 8.45835296865553, 8.59191730879247, 6.93235423788428],
+      "y": [3.1829425804317, 7.08193137473427, 8.11359274117276, -5.13480796115473],
+      "text": ["Yards.to.success:  7.0<br />Yards.gained:   3<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Yards.to.success:  8.4<br />Yards.gained:   7<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Yards.to.success:  8.4<br />Yards.gained:   8<br />Play.type: Pass Reception<br />Success: Unsuccessful", "Yards.to.success:  7.0<br />Yards.gained:  -5<br />Play.type: Pass Reception<br />Success: Unsuccessful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -628,14 +484,14 @@
       "legendgroup": "(Unsuccessful,Pass Reception)",
       "showlegend": false,
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [9.65045505706221, 9.81828823499382, 9.69786998406053, 9.67140457183123, 9.66917016804218, 9.91846411861479, 9.89404713790864, 9.76634657494724, 10.1716118175536, 9.6640854999423, 10.28884750586, 9.61292943954468, 9.87590359952301, 9.81059896927327, 10.3252264972776],
-      "y": [1.89877730715089, 2.06140268794261, 1.04138773302548, 3.79972984739579, -1.16906022597104, 2.94359627701342, 2.1895964008756, 2.19599691908807, 4.03059115023352, 3.02040282245725, -0.249025390064344, -0.13170447461307, 4.2325625996571, 1.03796506165527, -2.12040486782789],
-      "text": ["Distance: 10<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   1<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   4<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:  -1<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   4<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   4<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   1<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:  -2<br />Play.type: Rush<br />Success: Unsuccessful"],
+      "x": [5.05002839881927, 5.20857758652419, 4.93304032571614, 5.25695439856499, 4.7599188786, 5.17360745016485, 4.82897621784359, 5.11781112737954, 4.8336550232023, 4.76975241601467, 4.60639528799802, 5.29003231171519, 4.78247357010841, 4.85541046895087, 4.71673131491989],
+      "y": [1.75542207332328, 1.88570516658947, 0.871539645735174, 3.79250078420155, -1.1061287694145, 2.94082146137953, 1.87535582943819, 1.93409255249426, 3.96423031440936, 2.94622066933662, 0.0759772859048098, 0.117228225292638, 3.91355692604557, 0.715488154441118, -1.98068181732669],
+      "text": ["Yards.to.success:  5.0<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   1<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   4<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:  -1<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   4<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   4<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:   1<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  5.0<br />Yards.gained:  -2<br />Play.type: Rush<br />Success: Unsuccessful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -659,9 +515,9 @@
       "frame": null
     },
     {
-      "x": [3.93753988351673, 4.78715920709074, 5.8369205545634, 12.0393386373296, 15.0447214011103, 9.84509616345167, 6.26125248614699, 0.943650553375483, 9.1485014397651, 3.75874952021986],
-      "y": [-1.20675740172155, -0.100948576675728, -0.219562934758142, 5.92141214311123, 3.23762499648146, 3.07154104071669, 4.25611188309267, 0.135403113858774, -0.0445120944175869, 2.29908552891575],
-      "text": ["Distance:  4<br />Yards.gained:  -1<br />Play.type: Rush<br />Success: Unsuccessful", "Distance:  5<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Distance:  6<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 12<br />Yards.gained:   6<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 15<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful", "Distance: 10<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful", "Distance:  6<br />Yards.gained:   4<br />Play.type: Rush<br />Success: Unsuccessful", "Distance:  1<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Distance:  9<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Distance:  4<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful"],
+      "x": [2.61264432985336, 3.80530251190066, 4.20625151321292, 8.54114319980144, 10.756789290905, 6.94995858445764, 4.08090058434755, 0.99323845487088, 6.12274108454585, 3.15659544430673],
+      "y": [-1.11804530704394, -0.065547083504498, 0.0821970710065216, 5.74762141881511, 2.87910629985854, 3.10518449423835, 4.16101841125637, 0.273291759844869, 0.156578384153545, 2.00525221563876],
+      "text": ["Yards.to.success:  2.8<br />Yards.gained:  -1<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  3.5<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  4.2<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  8.4<br />Yards.gained:   6<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success: 10.5<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  7.0<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  4.2<br />Yards.gained:   4<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  0.7<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  6.3<br />Yards.gained:   0<br />Play.type: Rush<br />Success: Unsuccessful", "Yards.to.success:  2.8<br />Yards.gained:   2<br />Play.type: Rush<br />Success: Unsuccessful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -680,14 +536,14 @@
       "legendgroup": "(Unsuccessful,Rush)",
       "showlegend": false,
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [13.0124070761725],
-      "y": [3.27826162297279],
-      "text": "Distance: 13<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful",
+      "x": [12.9309712832794],
+      "y": [3.04605738054961],
+      "text": "Yards.to.success: 13.0<br />Yards.gained:   3<br />Play.type: Rush<br />Success: Unsuccessful",
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -706,14 +562,14 @@
       "legendgroup": "(Unsuccessful,Rush)",
       "showlegend": false,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
     {
-      "x": [8.6472007850185, 7.29341364149004],
-      "y": [-2.78759637577459, -10.7289129070006],
-      "text": ["Distance:  9<br />Yards.gained:  -3<br />Play.type: Sack<br />Success: Unsuccessful", "Distance:  7<br />Yards.gained: -11<br />Play.type: Sack<br />Success: Unsuccessful"],
+      "x": [6.47744809892029, 4.55796830039471],
+      "y": [-2.90441710604355, -11.2271439618897],
+      "text": ["Yards.to.success:  6.3<br />Yards.gained:  -3<br />Play.type: Sack<br />Success: Unsuccessful", "Yards.to.success:  4.9<br />Yards.gained: -11<br />Play.type: Sack<br />Success: Unsuccessful"],
       "type": "scatter",
       "mode": "markers",
       "marker": {
@@ -732,7 +588,7 @@
       "legendgroup": "(Unsuccessful,Sack)",
       "showlegend": true,
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
@@ -772,7 +628,7 @@
       "hoveron": "fills",
       "showlegend": false,
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
@@ -792,7 +648,7 @@
       "hoveron": "fills",
       "showlegend": false,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
@@ -812,7 +668,7 @@
       "hoveron": "fills",
       "showlegend": false,
       "xaxis": "x4",
-      "yaxis": "y4",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
@@ -852,7 +708,7 @@
       "hoveron": "fills",
       "showlegend": false,
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
@@ -872,7 +728,7 @@
       "hoveron": "fills",
       "showlegend": false,
       "xaxis": "x3",
-      "yaxis": "y3",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     },
@@ -892,17 +748,17 @@
       "hoveron": "fills",
       "showlegend": false,
       "xaxis": "x4",
-      "yaxis": "y4",
+      "yaxis": "y",
       "hoverinfo": "text",
       "frame": null
     }
   ],
   layout: {
     "margin": {
-      "t": 52.7320875652101,
+      "t": 54.1200226503295,
       "r": 7.30593607305936,
-      "b": 37.462681172516,
-      "l": 37.2602739726027
+      "b": 38.8506162576355,
+      "l": 43.1050228310502
     },
     "plot_bgcolor": "rgba(229,229,229,1)",
     "paper_bgcolor": "rgba(255,255,255,1)",
@@ -912,7 +768,7 @@
       "size": 14.6118721461187
     },
     "title": {
-      "text": "Alabama[52]: Yards to be Successful vs Yards gained by Down  (Color lines = success, Dot-dash line = 1st down)",
+      "text": "Alabama[52]: Yards needed to be Successful vs Yards Gained by Down",
       "font": {
         "color": "rgba(0,0,0,1)",
         "family": "",
@@ -922,16 +778,16 @@
       "xref": "paper"
     },
     "xaxis": {
-      "domain": [0, 0.225445097572166],
+      "domain": [0, 0.244063432226658],
       "automargin": true,
       "type": "linear",
       "autorange": false,
-      "range": [3.4791921712365, 15.7950176319201],
+      "range": [0.147554337931797, 18.7526049105916],
       "tickmode": "array",
-      "ticktext": ["4", "6", "8", "10", "12", "14"],
-      "tickvals": [4, 6, 8, 10, 12, 14],
+      "ticktext": ["2", "4", "6", "8", "10", "12", "14", "16", "18"],
+      "tickvals": [2, 4, 6, 8, 10, 12, 14, 16, 18],
       "categoryorder": "array",
-      "categoryarray": ["4", "6", "8", "10", "12", "14"],
+      "categoryarray": ["2", "4", "6", "8", "10", "12", "14", "16", "18"],
       "nticks": null,
       "ticks": "outside",
       "tickcolor": "rgba(51,51,51,1)",
@@ -957,7 +813,7 @@
     },
     "annotations": [
       {
-        "text": "Distance to 1st down or TD",
+        "text": "Yards to Success",
         "x": 0.5,
         "y": 0,
         "showarrow": false,
@@ -994,11 +850,11 @@
         "xanchor": "right",
         "yanchor": "center",
         "annotationType": "axis",
-        "xshift": -21.9178082191781
+        "xshift": -27.7625570776256
       },
       {
         "text": "1st Down <br />Total: 42 = Suc: 17 + Unsuc: 25, TD/1st: 10",
-        "x": 0.112722548786083,
+        "x": 0.122031716113329,
         "y": 1,
         "showarrow": false,
         "ax": 0,
@@ -1052,7 +908,7 @@
       },
       {
         "text": "4th Down <br />Total: 0 = Suc: 0 + Unsuc: 0, TD/1st: 0",
-        "x": 0.887277451213917,
+        "x": 0.877968283886671,
         "y": 1,
         "showarrow": false,
         "ax": 0,
@@ -1074,12 +930,12 @@
       "automargin": true,
       "type": "linear",
       "autorange": false,
-      "range": [-4.02855424748501, 21.9017253386113],
+      "range": [-15.0405426538829, 68.8542285699677],
       "tickmode": "array",
-      "ticktext": ["0", "5", "10", "15", "20"],
-      "tickvals": [0, 5, 10, 15, 20],
+      "ticktext": ["-15", "-10", "-5", "0", "5", "10", "15", "20", "25", "30", "35", "40", "45", "50", "55", "60", "65"],
+      "tickvals": [-15, -10, -5, -1.77635683940025e-015, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65],
       "categoryorder": "array",
-      "categoryarray": ["0", "5", "10", "15", "20"],
+      "categoryarray": ["-15", "-10", "-5", "0", "5", "10", "15", "20", "25", "30", "35", "40", "45", "50", "55", "60", "65"],
       "nticks": null,
       "ticks": "outside",
       "tickcolor": "rgba(51,51,51,1)",
@@ -1115,7 +971,7 @@
         "yref": "paper",
         "xref": "paper",
         "x0": 0,
-        "x1": 0.225445097572166,
+        "x1": 0.244063432226658,
         "y0": 0,
         "y1": 1
       },
@@ -1130,7 +986,7 @@
         "yref": "paper",
         "xref": "paper",
         "x0": 0,
-        "x1": 0.225445097572166,
+        "x1": 0.244063432226658,
         "y0": 0,
         "y1": 23.37899543379,
         "yanchor": 1,
@@ -1146,8 +1002,8 @@
         },
         "yref": "paper",
         "xref": "paper",
-        "x0": 0.274554902427834,
-        "x1": 0.475445097572166,
+        "x0": 0.255936567773342,
+        "x1": 0.494063432226658,
         "y0": 0,
         "y1": 1
       },
@@ -1161,8 +1017,8 @@
         },
         "yref": "paper",
         "xref": "paper",
-        "x0": 0.274554902427834,
-        "x1": 0.475445097572166,
+        "x0": 0.255936567773342,
+        "x1": 0.494063432226658,
         "y0": 0,
         "y1": 23.37899543379,
         "yanchor": 1,
@@ -1178,8 +1034,8 @@
         },
         "yref": "paper",
         "xref": "paper",
-        "x0": 0.524554902427834,
-        "x1": 0.725445097572166,
+        "x0": 0.505936567773342,
+        "x1": 0.744063432226658,
         "y0": 0,
         "y1": 1
       },
@@ -1193,8 +1049,8 @@
         },
         "yref": "paper",
         "xref": "paper",
-        "x0": 0.524554902427834,
-        "x1": 0.725445097572166,
+        "x0": 0.505936567773342,
+        "x1": 0.744063432226658,
         "y0": 0,
         "y1": 23.37899543379,
         "yanchor": 1,
@@ -1210,7 +1066,7 @@
         },
         "yref": "paper",
         "xref": "paper",
-        "x0": 0.774554902427834,
+        "x0": 0.755936567773342,
         "x1": 1,
         "y0": 0,
         "y1": 1
@@ -1225,7 +1081,7 @@
         },
         "yref": "paper",
         "xref": "paper",
-        "x0": 0.774554902427834,
+        "x0": 0.755936567773342,
         "x1": 1,
         "y0": 0,
         "y1": 23.37899543379,
@@ -1236,12 +1092,12 @@
     "xaxis2": {
       "type": "linear",
       "autorange": false,
-      "range": [0.238597010988742, 15.749774943497],
+      "range": [0.147554337931797, 18.7526049105916],
       "tickmode": "array",
-      "ticktext": ["2", "4", "6", "8", "10", "12", "14"],
-      "tickvals": [2, 4, 6, 8, 10, 12, 14],
+      "ticktext": ["2", "4", "6", "8", "10", "12", "14", "16", "18"],
+      "tickvals": [2, 4, 6, 8, 10, 12, 14, 16, 18],
       "categoryorder": "array",
-      "categoryarray": ["2", "4", "6", "8", "10", "12", "14"],
+      "categoryarray": ["2", "4", "6", "8", "10", "12", "14", "16", "18"],
       "nticks": null,
       "ticks": "outside",
       "tickcolor": "rgba(51,51,51,1)",
@@ -1258,56 +1114,23 @@
       "linecolor": null,
       "linewidth": 0,
       "showgrid": true,
-      "domain": [0.274554902427834, 0.475445097572166],
+      "domain": [0.255936567773342, 0.494063432226658],
       "gridcolor": "rgba(204,204,204,1)",
       "gridwidth": 0.66417600664176,
       "zeroline": false,
-      "anchor": "y2",
-      "title": "",
-      "hoverformat": ".2f"
-    },
-    "yaxis2": {
-      "type": "linear",
-      "autorange": false,
-      "range": [-12.6009150773054, 28.5831326693995],
-      "tickmode": "array",
-      "ticktext": ["-10", "-5", "0", "5", "10", "15", "20", "25"],
-      "tickvals": [-10, -5, 0, 5, 10, 15, 20, 25],
-      "categoryorder": "array",
-      "categoryarray": ["-10", "-5", "0", "5", "10", "15", "20", "25"],
-      "nticks": null,
-      "ticks": "outside",
-      "tickcolor": "rgba(51,51,51,1)",
-      "ticklen": 3.65296803652968,
-      "tickwidth": 0.66417600664176,
-      "showticklabels": true,
-      "tickfont": {
-        "color": "rgba(77,77,77,1)",
-        "family": "",
-        "size": 11.689497716895
-      },
-      "tickangle": -0,
-      "showline": false,
-      "linecolor": null,
-      "linewidth": 0,
-      "showgrid": true,
-      "domain": [0, 1],
-      "gridcolor": "rgba(204,204,204,1)",
-      "gridwidth": 0.66417600664176,
-      "zeroline": false,
-      "anchor": "x2",
+      "anchor": "y",
       "title": "",
       "hoverformat": ".2f"
     },
     "xaxis3": {
       "type": "linear",
       "autorange": false,
-      "range": [-0.178894334258512, 18.6905667626951],
+      "range": [0.147554337931797, 18.7526049105916],
       "tickmode": "array",
-      "ticktext": ["0", "2", "4", "6", "8", "10", "12", "14", "16", "18"],
-      "tickvals": [0, 2, 4, 6, 8, 10, 12, 14, 16, 18],
+      "ticktext": ["2", "4", "6", "8", "10", "12", "14", "16", "18"],
+      "tickvals": [2, 4, 6, 8, 10, 12, 14, 16, 18],
       "categoryorder": "array",
-      "categoryarray": ["0", "2", "4", "6", "8", "10", "12", "14", "16", "18"],
+      "categoryarray": ["2", "4", "6", "8", "10", "12", "14", "16", "18"],
       "nticks": null,
       "ticks": "outside",
       "tickcolor": "rgba(51,51,51,1)",
@@ -1324,56 +1147,23 @@
       "linecolor": null,
       "linewidth": 0,
       "showgrid": true,
-      "domain": [0.524554902427834, 0.725445097572166],
+      "domain": [0.505936567773342, 0.744063432226658],
       "gridcolor": "rgba(204,204,204,1)",
       "gridwidth": 0.66417600664176,
       "zeroline": false,
-      "anchor": "y3",
-      "title": "",
-      "hoverformat": ".2f"
-    },
-    "yaxis3": {
-      "type": "linear",
-      "autorange": false,
-      "range": [-3.51439933695365, 68.4739127787994],
-      "tickmode": "array",
-      "ticktext": ["0", "5", "10", "15", "20", "25", "30", "35", "40", "45", "50", "55", "60", "65"],
-      "tickvals": [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65],
-      "categoryorder": "array",
-      "categoryarray": ["0", "5", "10", "15", "20", "25", "30", "35", "40", "45", "50", "55", "60", "65"],
-      "nticks": null,
-      "ticks": "outside",
-      "tickcolor": "rgba(51,51,51,1)",
-      "ticklen": 3.65296803652968,
-      "tickwidth": 0.66417600664176,
-      "showticklabels": true,
-      "tickfont": {
-        "color": "rgba(77,77,77,1)",
-        "family": "",
-        "size": 11.689497716895
-      },
-      "tickangle": -0,
-      "showline": false,
-      "linecolor": null,
-      "linewidth": 0,
-      "showgrid": true,
-      "domain": [0, 1],
-      "gridcolor": "rgba(204,204,204,1)",
-      "gridwidth": 0.66417600664176,
-      "zeroline": false,
-      "anchor": "x3",
+      "anchor": "y",
       "title": "",
       "hoverformat": ".2f"
     },
     "xaxis4": {
       "type": "linear",
       "autorange": false,
-      "range": [9.95, 10.05],
+      "range": [0.147554337931797, 18.7526049105916],
       "tickmode": "array",
-      "ticktext": ["10"],
-      "tickvals": [10],
+      "ticktext": ["2", "4", "6", "8", "10", "12", "14", "16", "18"],
+      "tickvals": [2, 4, 6, 8, 10, 12, 14, 16, 18],
       "categoryorder": "array",
-      "categoryarray": ["10"],
+      "categoryarray": ["2", "4", "6", "8", "10", "12", "14", "16", "18"],
       "nticks": null,
       "ticks": "outside",
       "tickcolor": "rgba(51,51,51,1)",
@@ -1390,44 +1180,11 @@
       "linecolor": null,
       "linewidth": 0,
       "showgrid": true,
-      "domain": [0.774554902427834, 1],
+      "domain": [0.755936567773342, 1],
       "gridcolor": "rgba(204,204,204,1)",
       "gridwidth": 0.66417600664176,
       "zeroline": false,
-      "anchor": "y4",
-      "title": "",
-      "hoverformat": ".2f"
-    },
-    "yaxis4": {
-      "type": "linear",
-      "autorange": false,
-      "range": [-0.75, 15.75],
-      "tickmode": "array",
-      "ticktext": ["0", "5", "10", "15"],
-      "tickvals": [0, 5, 10, 15],
-      "categoryorder": "array",
-      "categoryarray": ["0", "5", "10", "15"],
-      "nticks": null,
-      "ticks": "outside",
-      "tickcolor": "rgba(51,51,51,1)",
-      "ticklen": 3.65296803652968,
-      "tickwidth": 0.66417600664176,
-      "showticklabels": true,
-      "tickfont": {
-        "color": "rgba(77,77,77,1)",
-        "family": "",
-        "size": 11.689497716895
-      },
-      "tickangle": -0,
-      "showline": false,
-      "linecolor": null,
-      "linewidth": 0,
-      "showgrid": true,
-      "domain": [0, 1],
-      "gridcolor": "rgba(204,204,204,1)",
-      "gridwidth": 0.66417600664176,
-      "zeroline": false,
-      "anchor": "x4",
+      "anchor": "y",
       "title": "",
       "hoverformat": ".2f"
     },
@@ -1460,45 +1217,36 @@
   },
   source: "A",
   attrs: {
-    "5314e576779": {
-      "xintercept": {},
+    "47c417f91edf": {
+      "intercept": {},
+      "slope": {},
       "type": "scatter"
     },
-    "5314752215cf": {
-      "intercept": {},
-      "slope": {}
-    },
-    "5314458a7827": {
-      "intercept": {},
-      "slope": {}
-    },
-    "531448fe6dbd": {
+    "47c47b227599": {
       "x": {},
       "y": {},
       "shape": {},
       "colour": {}
     },
-    "5314cd16cdc": {
+    "47c411363b8": {
       "xmin": {},
       "xmax": {},
       "ymin": {},
       "ymax": {}
     },
-    "5314647144f5": {
+    "47c44c671b9c": {
       "xmin": {},
       "xmax": {},
       "ymin": {},
       "ymax": {}
     }
   },
-  cur_data: "5314e576779",
+  cur_data: "47c417f91edf",
   visdat: {
-    "5314e576779": ["function (y) ", "x"],
-    "5314752215cf": ["function (y) ", "x"],
-    "5314458a7827": ["function (y) ", "x"],
-    "531448fe6dbd": ["function (y) ", "x"],
-    "5314cd16cdc": ["function (y) ", "x"],
-    "5314647144f5": ["function (y) ", "x"]
+    "47c417f91edf": ["function (y) ", "x"],
+    "47c47b227599": ["function (y) ", "x"],
+    "47c411363b8": ["function (y) ", "x"],
+    "47c44c671b9c": ["function (y) ", "x"]
   },
   highlight: {
     "on": "plotly_click",

@@ -393,6 +393,32 @@
       "frame": null
     },
     {
+      "x": [59],
+      "y": [12],
+      "text": "Offense.play.count:  59<br />Yards.gained:  12<br />Play.type: Blocked Punt<br />Success: Blocked Punt",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(127,127,127,1)",
+        "opacity": 1,
+        "size": 15.1181102362205,
+        "symbol": "diamond-open",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(127,127,127,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Blocked Punt",
+      "legendgroup": "Blocked Punt",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
       "x": [70],
       "y": [45],
       "text": "Offense.play.count:  70<br />Yards.gained:  45<br />Play.type: Field Goal Good<br />Success: Field Goal Good",
@@ -490,32 +516,6 @@
       "hoveron": "points",
       "name": "Punt",
       "legendgroup": "Punt",
-      "showlegend": true,
-      "xaxis": "x",
-      "yaxis": "y",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [59],
-      "y": [12],
-      "text": "Offense.play.count:  59<br />Yards.gained:  12<br />Play.type: Blocked Punt<br />Success: Successful",
-      "type": "scatter",
-      "mode": "markers",
-      "marker": {
-        "autocolorscale": false,
-        "color": "rgba(0,100,0,1)",
-        "opacity": 1,
-        "size": 15.1181102362205,
-        "symbol": "diamond-open",
-        "line": {
-          "width": 1.88976377952756,
-          "color": "rgba(0,100,0,1)"
-        }
-      },
-      "hoveron": "points",
-      "name": "(Successful,Blocked Punt)",
-      "legendgroup": "(Successful,Blocked Punt)",
       "showlegend": true,
       "xaxis": "x",
       "yaxis": "y",
@@ -759,9 +759,9 @@
   ],
   layout: {
     "margin": {
-      "t": 41.0425898483151,
+      "t": 42.4305249334345,
       "r": 7.30593607305936,
-      "b": 37.462681172516,
+      "b": 38.8506162576355,
       "l": 43.1050228310502
     },
     "plot_bgcolor": "rgba(229,229,229,1)",
@@ -909,52 +909,52 @@
   },
   source: "A",
   attrs: {
-    "5314e89466": {
+    "47c43f742908": {
       "xmin": {},
       "xmax": {},
       "ymin": {},
       "ymax": {},
       "type": "scatter"
     },
-    "53141cb472f1": {
+    "47c45f421cac": {
       "xmin": {},
       "xmax": {},
       "ymin": {},
       "ymax": {}
     },
-    "531462983c24": {
+    "47c410ef15b4": {
       "yintercept": {}
     },
-    "5314572f1025": {
+    "47c45b6537f7": {
       "xintercept": {}
     },
-    "5314275e3bab": {
+    "47c4204c3f7a": {
       "x": {},
       "y": {},
       "xend": {},
       "yend": {}
     },
-    "53147547703": {
+    "47c42d9a2e19": {
       "x": {},
       "y": {},
       "colour": {}
     },
-    "5314136b6290": {
+    "47c438bc474d": {
       "x": {},
       "y": {},
       "shape": {},
       "colour": {}
     }
   },
-  cur_data: "5314e89466",
+  cur_data: "47c43f742908",
   visdat: {
-    "5314e89466": ["function (y) ", "x"],
-    "53141cb472f1": ["function (y) ", "x"],
-    "531462983c24": ["function (y) ", "x"],
-    "5314572f1025": ["function (y) ", "x"],
-    "5314275e3bab": ["function (y) ", "x"],
-    "53147547703": ["function (y) ", "x"],
-    "5314136b6290": ["function (y) ", "x"]
+    "47c43f742908": ["function (y) ", "x"],
+    "47c45f421cac": ["function (y) ", "x"],
+    "47c410ef15b4": ["function (y) ", "x"],
+    "47c45b6537f7": ["function (y) ", "x"],
+    "47c4204c3f7a": ["function (y) ", "x"],
+    "47c42d9a2e19": ["function (y) ", "x"],
+    "47c438bc474d": ["function (y) ", "x"]
   },
   highlight: {
     "on": "plotly_click",

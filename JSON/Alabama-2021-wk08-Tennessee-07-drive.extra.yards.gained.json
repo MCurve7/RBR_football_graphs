@@ -55,6 +55,32 @@
       "frame": null
     },
     {
+      "x": [59],
+      "y": [2],
+      "text": "Offense.play.count:  59<br />Extra.yards.gained:   2.0<br />Play.type: Blocked Punt<br />Success: Blocked Punt",
+      "type": "scatter",
+      "mode": "markers",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(127,127,127,1)",
+        "opacity": 1,
+        "size": 11.3385826771654,
+        "symbol": "diamond-open",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(127,127,127,1)"
+        }
+      },
+      "hoveron": "points",
+      "name": "Blocked Punt",
+      "legendgroup": "Blocked Punt",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
       "x": [70],
       "y": [37],
       "text": "Offense.play.count:  70<br />Extra.yards.gained:  37.0<br />Play.type: Field Goal Good<br />Success: Field Goal Good",
@@ -152,32 +178,6 @@
       "hoveron": "points",
       "name": "Punt",
       "legendgroup": "Punt",
-      "showlegend": true,
-      "xaxis": "x",
-      "yaxis": "y",
-      "hoverinfo": "text",
-      "frame": null
-    },
-    {
-      "x": [59],
-      "y": [2],
-      "text": "Offense.play.count:  59<br />Extra.yards.gained:   2.0<br />Play.type: Blocked Punt<br />Success: Successful",
-      "type": "scatter",
-      "mode": "markers",
-      "marker": {
-        "autocolorscale": false,
-        "color": "rgba(0,100,0,1)",
-        "opacity": 1,
-        "size": 11.3385826771654,
-        "symbol": "diamond-open",
-        "line": {
-          "width": 1.88976377952756,
-          "color": "rgba(0,100,0,1)"
-        }
-      },
-      "hoveron": "points",
-      "name": "(Successful,Blocked Punt)",
-      "legendgroup": "(Successful,Blocked Punt)",
       "showlegend": true,
       "xaxis": "x",
       "yaxis": "y",
@@ -701,9 +701,9 @@
   ],
   layout: {
     "margin": {
-      "t": 41.0425898483151,
+      "t": 42.4305249334345,
       "r": 7.30593607305936,
-      "b": 37.462681172516,
+      "b": 38.8506162576355,
       "l": 43.1050228310502
     },
     "plot_bgcolor": "rgba(229,229,229,1)",
@@ -851,31 +851,31 @@
   },
   source: "A",
   attrs: {
-    "53146c5392e": {
+    "47c468613e1": {
       "yintercept": {},
       "type": "scatter"
     },
-    "5314265330d": {
+    "47c4abb3af6": {
       "xintercept": {}
     },
-    "531484c4e52": {
+    "47c441fe5da1": {
       "x": {},
       "y": {},
       "shape": {},
       "colour": {}
     },
-    "5314441d4e2a": {
+    "47c428a052a7": {
       "x": {},
       "y": {},
       "colour": {}
     }
   },
-  cur_data: "53146c5392e",
+  cur_data: "47c468613e1",
   visdat: {
-    "53146c5392e": ["function (y) ", "x"],
-    "5314265330d": ["function (y) ", "x"],
-    "531484c4e52": ["function (y) ", "x"],
-    "5314441d4e2a": ["function (y) ", "x"]
+    "47c468613e1": ["function (y) ", "x"],
+    "47c4abb3af6": ["function (y) ", "x"],
+    "47c441fe5da1": ["function (y) ", "x"],
+    "47c428a052a7": ["function (y) ", "x"]
   },
   highlight: {
     "on": "plotly_click",
